@@ -1,30 +1,23 @@
-# 💸 Expense Tracker with Shooting Stars ✨
+Expense Tracker with Shooting Stars 
 
 A modern, fully responsive **Expense Tracker Web App** built using **pure HTML, CSS, and JavaScript**, featuring a **moving star background** and **shooting star animation on transaction submission** for a premium fintech-style user experience.
 
----
-
-## 🔥 Live Features
-
-### 🧮 Expense Management
+ Live Features
+Expense Management
 - Add **Income** and **Expense** separately
 - Automatic **Balance calculation**
 - Real-time **Income & Expense summary**
 - Delete transactions
 - Persistent data using **LocalStorage**
-
-### 🌌 UI & Animations
+ UI & Animations
 - Moving **star background**
-- 🌠 **Shooting star animation on “Add Transaction”**
+   Shooting star animation on “Add Transaction”**
 - Floating income & expense cards
 - Glowing balance animation
 - Smooth transaction entry animation
 - Glassmorphism-style UI
 - Fully responsive (Mobile + Desktop)
-
----
-
-## 🛠 Tech Stack
+Tech Stack
 
 - **HTML5**
 - **CSS3 (Advanced Animations & Keyframes)**
@@ -33,9 +26,7 @@ A modern, fully responsive **Expense Tracker Web App** built using **pure HTML, 
 
 > No frameworks • No libraries • Lightweight & fast
 
----
-
-## 📂 Project Structure
+ Project Structure
 
 expense-tracker/
 │
@@ -44,9 +35,7 @@ expense-tracker/
 
 > The complete application is contained in a **single HTML file**.
 
----
-
-## 🚀 How to Run
+ How to Run
 
 1. Clone or download this repository  
 2. Open the file:
@@ -55,9 +44,7 @@ expense-tracker/
 
 No setup or installation required.
 
----
-
-## 🧠 What This Project Demonstrates
+ What This Project Demonstrates
 
 - DOM manipulation with JavaScript
 - Data persistence using LocalStorage
@@ -66,14 +53,13 @@ No setup or installation required.
 - Building production-ready apps without frameworks
 
 ---
-
-## 💼 Resume Description
+ Resume Description
 
 > Developed a responsive Expense Tracker with persistent storage, animated star background, and shooting star micro-interactions using pure HTML, CSS, and JavaScript, focusing on premium UI/UX and fintech-inspired design.
 
 ---
 
-## 🔮 Future Enhancements
+ Future Enhancements
 
 - Category-wise charts
 - Monthly / yearly expense filter
@@ -83,11 +69,11 @@ No setup or installation required.
 
 ---
 
-## 👩‍💻 Author
+ Author
 
 **Shaili Srivastava**  
 B.Tech CSE | UI/UX & Frontend Developer  
 
 ---
 
-⭐ If you like this project, don’t forget to star the repository!
+If you like this project, don’t forget to star the repository!
