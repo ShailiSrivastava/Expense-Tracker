@@ -1,0 +1,42 @@
+[
+  {
+    "id": "5f19fad3-75c5-433d-acee-35b1ab46d41e",
+    "description": "rent",
+    "amount": 8500,
+    "type": "expense",
+    "category": "Other",
+    "date": "2026-07-08",
+    "paymentMethod": "UPI",
+    "recurring": false
+  },
+  {
+    "id": "seed-1",
+    "description": "Salary",
+    "amount": 4200,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-07-01",
+    "paymentMethod": "Bank Transfer",
+    "recurring": true
+  },
+  {
+    "id": "seed-2",
+    "description": "Groceries",
+    "amount": 128,
+    "type": "expense",
+    "category": "Food",
+    "date": "2026-07-03",
+    "paymentMethod": "Card",
+    "recurring": false
+  },
+  {
+    "id": "seed-3",
+    "description": "Train Pass",
+    "amount": 74,
+    "type": "expense",
+    "category": "Travel",
+    "date": "2026-07-04",
+    "paymentMethod": "UPI",
+    "recurring": true
+  }
+]

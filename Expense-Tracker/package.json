@@ -1,0 +1,12 @@
+{
+  "name": "expense-tracker-fullstack",
+  "version": "1.0.0",
+  "description": "A modern full-stack expense tracker built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["expense", "tracker", "node", "finance"],
+  "author": "Copilot",
+  "license": "MIT"
+}
